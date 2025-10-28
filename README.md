@@ -1,4 +1,4 @@
-<h1 align="center">Kyani Magalhães</h1>
+<h1 align="center">Kyani Brito</h1>
 
 <h3 align="center">Web Developer | São Sebastião - SP, Brazil</h3>
 
