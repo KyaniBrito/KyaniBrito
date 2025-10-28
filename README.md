@@ -3,7 +3,7 @@
 <h3 align="center">Web Developer | SP, Brazil</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23A3F7BF&center=true&vCenter=true&lines=Web+Developer+Student;20+Years+Old;From+the+Sea+to+the+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23A3F7BF&center=true&vCenter=true&lines=Be+Welcome!+:);Web+Developer+Student;20+Years+Old;From+the+Sea+to+the+Code" alt="Typing SVG" />
 </p>
 
 ---
